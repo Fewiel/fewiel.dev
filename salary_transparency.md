@@ -12,6 +12,6 @@ From Xeiaso:
 
 | Title                                 | Start Date | Salary      |
 | ------------------------------------- | ---------- | ----------- |
-| Shopware: Support Expert  | 01/01/24   | 43.800€/year |
+| Shopware: Support Expert  | 01/01/24   | 43.800€/year (+800€ one time inflation bonus)|
 | Shopware: Support Expert | 01/07/23   | 40.800€/year (+2.200€/year inflation bonus) |
 | Shopware: Support Specialist | 21/06/22   | 31.200€/year |
