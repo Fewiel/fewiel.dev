@@ -1,3 +1,32 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.5">Jekyll</generator><link href="https://fewiel.dev/feed.xml" rel="self" type="application/atom+xml" /><link href="https://fewiel.dev/" rel="alternate" type="text/html" /><updated>2024-03-11T23:36:20+01:00</updated><id>https://fewiel.dev/feed.xml</id><title type="html">Fewiel.Dev</title><subtitle>Phillip Weitkamp&apos;s portfolio! As a hobby developer and Shopware support expert</subtitle><author><name>Phillip Weitkamp</name><email>info@p-weitkamp.de</email></author><entry><title type="html">Let’s start this</title><link href="https://fewiel.dev/info/2024/03/11/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Let’s start this" /><published>2024-03-11T00:00:00+01:00</published><updated>2024-03-11T00:00:00+01:00</updated><id>https://fewiel.dev/info/2024/03/11/welcome-to-jekyll</id><content type="html" xml:base="https://fewiel.dev/info/2024/03/11/welcome-to-jekyll.html"><![CDATA[<p>This is my first blog post.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-03-12T00:12:48+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Fewiel.Dev</title><subtitle>Phillip Weitkamp&apos;s portfolio! As a hobby developer and Shopware support expert</subtitle><author><name>Phillip Weitkamp</name><email>info@p-weitkamp.de</email></author><entry><title type="html">The perfect answer!</title><link href="http://localhost:4000/info/2024/03/11/the_perfect_answer.html" rel="alternate" type="text/html" title="The perfect answer!" /><published>2024-03-11T00:00:00+01:00</published><updated>2024-03-11T00:00:00+01:00</updated><id>http://localhost:4000/info/2024/03/11/the_perfect_answer</id><content type="html" xml:base="http://localhost:4000/info/2024/03/11/the_perfect_answer.html"><![CDATA[<h2 id="what-is-the-perfect-answer">What is the perfect answer?</h2>
+
+<p>The perfect answer in support depends on many factors. What topic is it about, which target group is the answer aimed at and what resources are available to us (e.g. online documentation).</p>
+
+<p>An answer can be structured as follows:</p>
+<ul>
+  <li><strong>Show understanding</strong><br />
+A simple “I can understand your request” shows interest and attention.</li>
+  <li><strong>Clear communication</strong><br />
+No beating around the bush. Tell the customer clearly what’s going on!</li>
+  <li><strong>Patience and respect</strong><br />
+Remember, not every customer is at your level of knowledge, always give the customer the opportunity to understand your answer, explain your statements in detail.</li>
+  <li><strong>Customized solution</strong><br />
+The most important thing is the solution, present your solution in a way that is understandable and adapted to the customer. Don’t make it look like a automatic answer.</li>
+  <li><strong>Helpful resources (links etc.)</strong><br />
+Give the customer something to read up on, keep them busy with documentation, this makes them curious and makes them come back to it more often.</li>
+  <li><strong>Follow-up</strong><br />
+Don’t leave the customer alone, make sure the customer understands that you are there for them.</li>
+</ul>
+
+<p>Overall, it is important to satisfy the customer and convey trust.</p>
+
+<p>Customers appreciate it when they feel that the support team understands their situation. Showing empathy means putting yourself in the customer’s shoes and taking their feelings and needs into account. This can help to build a positive relationship and strengthen the customer’s trust in your support.</p>
+
+<p>Customers can also get frustrated if they have complex problems or don’t understand how something works. It is important to be patient and encourage the customer to ask questions.</p>
+
+<p>This brings you to the goal of satisfied customers.</p>
+
+<p><strong>Do you have any further questions?</strong><br />
+Then contact me on one of my social media channels.</p>]]></content><author><name>[&quot;Phillip Weitkamp (Fewiel)&quot;]</name></author><category term="info" /><summary type="html"><![CDATA[Nothing is more challenging than giving the perfect answer in support on complex topics.]]></summary></entry><entry><title type="html">Let’s start this</title><link href="http://localhost:4000/info/2024/03/11/lets_start.html" rel="alternate" type="text/html" title="Let’s start this" /><published>2024-03-11T00:00:00+01:00</published><updated>2024-03-11T00:00:00+01:00</updated><id>http://localhost:4000/info/2024/03/11/lets_start</id><content type="html" xml:base="http://localhost:4000/info/2024/03/11/lets_start.html"><![CDATA[<p>This is my first blog post.</p>
 
 <p>There’s not much to see at the moment, more will follow in the future!</p>]]></content><author><name>[&quot;Phillip Weitkamp (Fewiel)&quot;]</name></author><category term="info" /><summary type="html"><![CDATA[This is my first blog entry - So not much to see at the moment!]]></summary></entry></feed>
