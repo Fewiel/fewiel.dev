@@ -24,7 +24,7 @@ author:
   email: info@p-weitkamp.de
 
 description: >- # this means to ignore newlines until "baseurl:"
-   Phillip Weitkamp's portfolio! As a hobby developer and Shopware support expert
+   Phillip Weitkamp's portfolio! A hobby developer and Shopware support expert.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://fewiel.dev" # the base hostname & protocol for your site, e.g. http://example.com
 
