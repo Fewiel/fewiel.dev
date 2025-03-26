@@ -16,9 +16,9 @@ title: Home
 </figure>
 My name is Phillip Weitkamp, online also known as Fewiel or Paradox and this is my Portfolio/Blog. 
 
-I am a IT specialist working at [shopware AG](https://www.shopware.com/) as "Support Expert".
+I am a IT specialist working at [shopware AG](https://www.shopware.com/) as "Senior Technical Enablement Manager".
 
-As a support expert, I am the technical contact person for my colleagues in support, I take care of knowledge distribution in the team and complicated cases.
+As a Senior Technical Enablement Manager, I am the technical contact person for my colleagues in support, I take care of knowledge distribution in the company and complicated cases.
 
 On this page you will find my [Salary](/salary) transparently as well as a small blog.
 
