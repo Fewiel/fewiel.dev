@@ -16,9 +16,9 @@ title: Home
 </figure>
 My name is Phillip Weitkamp, online also known as Fewiel or Paradox and this is my Portfolio/Blog. 
 
-I am a IT specialist working at [shopware AG](https://www.shopware.com/) as "Senior Technical Enablement Manager".
+I am a IT specialist working at [shopware AG](https://www.shopware.com/) as "Software Engineer".
 
-As a Senior Technical Enablement Manager, I am the technical contact person for my colleagues in support, I take care of knowledge distribution in the company and complicated cases.
+As a Software Engineer, I am manageing my own project "Shopware build". An application written in .Net to manage and setup Shopware test instances in just a few clicks.
 
 On this page you will find my [Salary](/salary) transparently as well as a small blog.
 
@@ -35,13 +35,9 @@ On this page you will find my [Salary](/salary) transparently as well as a small
 On Github you can find some of my projects.  
 
 Projects i've worked on:  
-- ShopDev  
-An application written in .Net to manage and setup Shopware test instances in just a few clicks.
+- Shopware build  
+- Environment Server (Early version of Shopware build)
 - Some helpfull tools in C#
 - ArmA 3 Banlist (A public banlist for Gameservers)
 - Some Websites (mostly Wordpress)
 - Private server infrastructure
-
----
-
-## Blog
